@@ -15,3 +15,6 @@ Yang dalam Bahasa Indonesianya berarti, Caesar Cipher adalah sebuah teknik yang 
 * Untuk melakukan Enkripsi, gunakan code `Encryption.c` dan kemudian masukkan pesan yang ingin dienkripsi dan masukkan nilai key-nya
 * Untuk melakukan Dekripsi, gunakan code `Decryption.c` dan kemudian masukan ciphertext-nya dan masukkan nilai key-nya
 
+## LISENSI
+Repository ini memiliki **Lisensi MIT.**      
+Lisensi ini membolehkan pengguna untuk melakukan perubahan apapun pada kode program. Lisensi ini hanya mewajibkan pengguna untuk menyertakan lisensi dan copyright pembuat pada kode yang didistribusikan ulang dan tidak ada larangan untuk menggunakan trademark dari pembuat asli. Selain itu pengguna juga tidak berhak untuk menuntut pembuat ketika terjadi kerusakan pada perangkat lunak tersebut.
